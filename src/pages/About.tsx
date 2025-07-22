@@ -21,7 +21,7 @@ export default function About() {
             {/* Photo with Orb Animation - Centered Vertically */}
             <div className="lg:col-span-2 relative group flex justify-center">
               <PhotoOrb 
-                imageUrl="/Portfolio/IMG_1816.JPG"
+                imageUrl="/IMG_1816.JPG"
                 alt="Raunak Saxena"
                 className="w-64 h-64 sm:w-80 sm:h-80 md:w-96 md:h-96 lg:w-[28rem] lg:h-[28rem]"
               />
