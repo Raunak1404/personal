@@ -12,7 +12,7 @@ export default function Resume() {
   const handleDownload = () => {
     // Create a sample PDF download
     const link = document.createElement('a');
-    link.href = '/Resume_Update.pdf'; // Replace with actual PDF URL
+    link.href = '/personal/Resume_Update.pdf'; // Replace with actual PDF URL
     link.download = 'raunak_saxena_resume.pdf';
     link.click();
   };
